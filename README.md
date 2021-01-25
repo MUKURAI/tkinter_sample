@@ -1,2 +1,3 @@
 # tkinter
-「python で　GUL　Tkinter　　を学ぶ」　 sample
+「python で　GUL　Tkinter　　を学ぶ」　 sample programme
+
